@@ -1,0 +1,4 @@
+*.pid
+*.swp
+__pycache__/
+output/
