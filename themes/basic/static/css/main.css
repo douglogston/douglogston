@@ -313,3 +313,25 @@ address.vcard.author {
   padding-bottom: 20px;
 }
 
+ul
+{
+  text-align: center;
+  list-style-type: none;
+  width: 100%;
+}
+
+ul li
+{
+  float: left;
+  padding: 10px;
+}
+
+ul li img {
+  border-radius: 10px;
+}
+
+ul li:nth-child(3n+4) {
+  clear:left;
+  float:left;
+}
+
